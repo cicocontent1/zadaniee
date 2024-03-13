@@ -1,0 +1,13 @@
+C:\Users\pc6\Desktop\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\pc6\Desktop\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\pc6\Desktop\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\pc6\Desktop\ConsoleApp18\bin\Debug\EntityFramework.dll
+C:\Users\pc6\Desktop\ConsoleApp18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc6\Desktop\ConsoleApp18\bin\Debug\EntityFramework.xml
+C:\Users\pc6\Desktop\ConsoleApp18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc6\Desktop\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\pc6\Desktop\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc6\Desktop\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\pc6\Desktop\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CopyComplete
+C:\Users\pc6\Desktop\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\pc6\Desktop\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
